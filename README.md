@@ -7,10 +7,9 @@
 ### Author: Arthur Lozano Jr
 
 
-- [AWW]() (AWW board)
 - [front-end application](https://basic-auth85.herokuapp.com/) (Heroku)
 - [Jest](https://jestjs.io/) (Jest)
-- [ci/cd](hhttps://github.com/Arthur-Lozano/basic-auth/actions) (GitHub Actions)
+- [ci/cd](https://github.com/Arthur-Lozano/basic-auth/actions) (GitHub Actions)
 - [Pull Request] (https://github.com/Arthur-Lozano/basic-auth/pull/1) 
 
 
@@ -40,4 +39,4 @@
 
 #### UML
 
-![UML Example](./assets/basicauth.png)
+![UML](./assets/basicauth.png)
